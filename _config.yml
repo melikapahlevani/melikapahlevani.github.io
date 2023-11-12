@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "توررنگ آتشی"
+title                    : "melika.p.g"
 title_separator          : "-"
-name                     : "Poorang" 
-description              : "Welcome to my web site."
+name                     : "m.p.g" 
+description              : "blue side"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : _
 facebook:
-  username               : sauleh.eetemadi
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -107,16 +107,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Khargooshe Naziloo"
+  name             : "melika pahlevani"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm the best student.
-  location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
+  bio              : blue side.
+  location         : "Tehran"
+  email            : melika84p.g@gmail.com
+  twitter: melika_a
+  linkedin: melika
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: melikapahlevani
+  instagram: melikap05
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -138,7 +138,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Telegram"
       icon: "fab fa-telegram"
-      url: "http://t.me/Sauleh"
+      url: "http://t.me/Meli"
 
 # Site Footer
 footer:
