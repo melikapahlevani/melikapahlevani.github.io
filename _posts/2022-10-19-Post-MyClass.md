@@ -1,8 +1,8 @@
 ---
 layout: posts
-title: در کلاس چه گذشت
+title: nothing to say yet
 ---
 
-- We wrote some code
-- We built our website
-- We pushed
+- "-"
+- "0"
+- "D"
