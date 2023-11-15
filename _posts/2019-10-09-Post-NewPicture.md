@@ -1,23 +1,22 @@
 ---
 layout: posts
-title: Test Post
+title:  Post
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+## This is a photo
+
+- ..
+- .. 
+- ..
+- ..
 
 [my favorite website](http://www.google.com)
 
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+..
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+![alt text](../assets/images/grouppic.jpg "good Picture")
 
 ---
 **Test**: This is atest
