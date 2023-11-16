@@ -2,12 +2,12 @@
 layout: posts
 title: turtle works
 ---
-<img src = "/assets/images/2023-11-11(4).png" >  </img> 
+<img src = /assets/images/2023-11-11(4) alt = "Tree">  
 <p>import turtle <br>
 
 def flower(): <br>
     turtle.circle(5,steps=6) <br>
-    
+    <br>
 def Tree(d,r,n): <br>
     if d < 10 or r < 10 : <br>
         return <br>
