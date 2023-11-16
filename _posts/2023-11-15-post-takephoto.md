@@ -2,7 +2,7 @@
 layout: posts
 title: turtle works
 ---
-<img src="C:\git\personal_website_template\assets\images\2023-11-11 (4).png"> 
+<img src = "C:\git\personal_website_template\assets\images\2023-11-11 (4).png" >  </img> 
 <p>import turtle <br>
 
 def flower(): <br>
