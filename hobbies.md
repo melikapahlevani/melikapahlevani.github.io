@@ -8,11 +8,12 @@ modified: 9-14-2019
 comments: false
 ---
 
-
-* [movie]
-* [songs]
-* [books]
-* [drawings]
-* [photography]
+* I love the little things in life
+* Like
+* ## [movie](https://www.netflix.com/)
+* ## [songs](https://open.spotify.com/)
+* ## [books](https://www.amazon.com/)
+* ## [drawings](https://www.pinterest.de/)
+* ## [photography](https://www.pinterest.de/)
 
 
