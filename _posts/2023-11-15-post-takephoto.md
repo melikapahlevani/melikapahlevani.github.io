@@ -2,9 +2,15 @@
 layout: posts
 title: turtle works
 ---
- TREE
-![alt text](../assets/images/2023-11-11%20(4).png "tree")
-![alt text](../assets/images/2023-11-11%20(6).png "star") 
+ 
+* ![alt text](../assets/images/2023-11-11%20(4).png "tree")
+
+
+
+* ![alt text](../assets/images/2023-11-11%20(6).png "star") 
+
+
+TREE
 import turtle <br>
 
 def flower(): <br>
@@ -35,7 +41,7 @@ turtle.pencolor("brown") <br>
 Tree(120,30,35) <br>
 turtle.update() <br>
 turtle.mainloop() <br>
- ## STAR
+  STAR <br>
  import turtle <br>
 def T(d):<br>
    if d < 5 :<br>
@@ -46,7 +52,7 @@ def T(d):<br>
      turtle.right(180 - 180/5)<br>
 
 
-def moon(b):
+def moon(b):<br>
    turtle.begin_fill()<br>
    turtle.fillcolor("darkgoldenrod")<br>
    turtle.circle(b)<br>
