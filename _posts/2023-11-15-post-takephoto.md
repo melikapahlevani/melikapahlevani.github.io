@@ -10,7 +10,7 @@ title: turtle works
 * ![alt text](../assets/images/2023-11-11%20(6).png "star") 
 
 
-TREE
+* TREE <br>
 import turtle <br>
 
 def flower(): <br>
@@ -41,7 +41,7 @@ turtle.pencolor("brown") <br>
 Tree(120,30,35) <br>
 turtle.update() <br>
 turtle.mainloop() <br>
-  STAR <br>
+* STAR <br>
  import turtle <br>
 def T(d):<br>
    if d < 5 :<br>
