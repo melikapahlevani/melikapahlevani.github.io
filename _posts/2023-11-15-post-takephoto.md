@@ -2,8 +2,10 @@
 layout: posts
 title: turtle works
 ---
-<img src = ".\assets\images\2023-11-11(4)" > 
-<p>import turtle <br>
+ TREE
+![alt text](../assets/images/2023-11-11%20(4).png "tree")
+![alt text](../assets/images/2023-11-11%20(6).png "star") 
+import turtle <br>
 
 def flower(): <br>
     turtle.circle(5,steps=6) <br>
@@ -33,4 +35,47 @@ turtle.pencolor("brown") <br>
 Tree(120,30,35) <br>
 turtle.update() <br>
 turtle.mainloop() <br>
-</p>
+ ## STAR
+ import turtle <br>
+def T(d):<br>
+   if d < 5 :<br>
+      return<br>
+   for _ in range(5):<br>
+     turtle.forward(d)<br>
+     T(d/3)<br>
+     turtle.right(180 - 180/5)<br>
+
+
+def moon(b):
+   turtle.begin_fill()<br>
+   turtle.fillcolor("darkgoldenrod")<br>
+   turtle.circle(b)<br>
+   turtle.end_fill()<br>
+
+
+turtle.tracer(0)<br>
+turtle.pensize(5)<br>
+turtle.bgcolor("darkslategray")<br>
+turtle.pencolor("darkgoldenrod")<br>
+T(200)<br>
+turtle.penup()<br>
+turtle.backward(300)<br>
+turtle.pendown()<br>
+T(200)<br>
+turtle.penup()<br>
+turtle.backward(300)<br>
+turtle.pendown()<br>
+T(200)<br>
+turtle.penup()<br>
+turtle.left(90)<br>
+turtle.forward(200)<br>
+turtle.pendown()<br>
+moon(100)<br>
+turtle.right(90)<br>
+turtle.penup<br>
+turtle.update()<br>
+turtle.mainloop()<br>
+
+
+ 
+
